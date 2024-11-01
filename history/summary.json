@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/glance.api.sjc3.rackspacecloud.com.ico",
     "slug": "glance-probe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 462,
     "timeDay": 4905,
     "timeWeek": 1435,
     "timeMonth": 533,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2024-11-01": 0
+      "2024-11-01": 4
     }
   },
   {
@@ -137,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudformation.api.sjc3.rackspacecloud.com.ico",
     "slug": "cloudformation-probe",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 445,
     "timeDay": 4939,
     "timeWeek": 1436,
     "timeMonth": 519,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2024-11-01": 0,
+      "2024-11-01": 3,
       "2024-10-07": 21
     }
   },
@@ -196,18 +196,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/magnum.api.sjc3.rackspacecloud.com.ico",
     "slug": "magnum-probe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 448,
     "timeDay": 4871,
     "timeWeek": 1429,
     "timeMonth": 528,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2024-11-01": 0
+      "2024-11-01": 3
     }
   }
 ]
