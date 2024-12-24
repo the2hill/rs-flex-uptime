@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/octavia.api.sjc3.rackspacecloud.com.ico",
     "slug": "octavia-probe",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.70%",
-    "uptimeYear": "96.78%",
+    "uptimeYear": "96.79%",
     "time": 282,
     "timeDay": 284,
     "timeWeek": 224,
@@ -218,9 +218,9 @@
     "url": "https://magnum.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/magnum.api.sjc3.rackspacecloud.com.ico",
     "slug": "magnum-probe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -230,6 +230,7 @@
     "timeMonth": 226,
     "timeYear": 366,
     "dailyMinutesDown": {
+      "2024-12-24": 0,
       "2024-11-12": 48,
       "2024-11-01": 93
     }
