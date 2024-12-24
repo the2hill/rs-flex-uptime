@@ -24,11 +24,11 @@
     "url": "https://neutron.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/neutron.api.sjc3.rackspacecloud.com.ico",
     "slug": "neutron-probe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 276,
     "timeDay": 329,
@@ -36,6 +36,7 @@
     "timeMonth": 266,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2024-12-24": 3,
       "2024-11-12": 48
     }
   },
@@ -92,9 +93,9 @@
     "url": "https://glance.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/glance.api.sjc3.rackspacecloud.com.ico",
     "slug": "glance-probe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.29%",
+    "uptimeDay": "97.24%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.86%",
@@ -104,7 +105,7 @@
     "timeMonth": 226,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-12-24": 39,
+      "2024-12-24": 40,
       "2024-11-12": 48,
       "2024-11-01": 93
     }
@@ -114,19 +115,19 @@
     "url": "https://heat.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/heat.api.sjc3.rackspacecloud.com.ico",
     "slug": "heat-probe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "89.28%",
-    "uptimeWeek": "98.47%",
+    "uptimeDay": "89.24%",
+    "uptimeWeek": "98.46%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.84%",
     "time": 238,
-    "timeDay": 237,
-    "timeWeek": 229,
-    "timeMonth": 230,
+    "timeDay": 235,
+    "timeWeek": 227,
+    "timeMonth": 229,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-12-24": 154,
+      "2024-12-24": 155,
       "2024-11-12": 48
     }
   },
