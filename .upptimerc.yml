@@ -38,12 +38,12 @@ status-website:
   introTitle: "Flex API Status"
   #introMessage:
   navbar:
-    - title: Status
+    - title: SJC Status
       href: /
-    - title: Genestack GitHub
+    - title: DFW Status
+      href: https://status.api.dfw3.rackspacecloud.com/
+    - title: Docs
       href: https://docs.rackspacecloud.com
-    - title: Rackspace
-      href: https://rackspace.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
