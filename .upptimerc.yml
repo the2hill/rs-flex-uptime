@@ -42,7 +42,9 @@ status-website:
     - title: SJC Status
       href: /
     - title: DFW Status
-      href: https://status.api.dfw3.rackspacecloud.com/
+      href: https://status.api.dfw3.rackspacecloud.com
+    - title: IAD Status
+      href: https://status.api.iad3.rackspacecloud.com
     - title: Docs
       href: https://docs.rackspacecloud.com
 
