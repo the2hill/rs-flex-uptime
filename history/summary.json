@@ -4,7 +4,7 @@
     "url": "https://nova.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/nova.api.sjc3.rackspacecloud.com.ico",
     "slug": "nova-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "59.12%",
     "uptimeWeek": "94.05%",
