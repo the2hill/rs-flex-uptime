@@ -25,7 +25,7 @@ jobs:
       - name: Check if status was updated
         id: verify_diff
         run: |
-          git diff --quiet status.json || echo "::set-output name=new_status_exist::true"
+          git diff status.json || echo "::set-output name=new_status_exist::true"
 
       - name: Commit files
         if: steps.verify_diff.outputs.new_status_exist == 'true'
