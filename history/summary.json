@@ -4,18 +4,19 @@
     "url": "https://nova.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/nova.api.sjc3.rackspacecloud.com.ico",
     "slug": "nova-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 371,
     "timeDay": 247,
-    "timeWeek": 1341,
+    "timeWeek": 286,
     "timeMonth": 767,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2025-07-01": 0,
       "2024-11-12": 48
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://neutron.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/neutron.api.sjc3.rackspacecloud.com.ico",
     "slug": "neutron-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +36,18 @@
     "timeWeek": 283,
     "timeMonth": 267,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "keystone-api",
     "url": "https://keystone.api.sjc3.rackspacecloud.com/v3",
     "icon": "https://icons.duckduckgo.com/ip3/keystone.api.sjc3.rackspacecloud.com.ico",
     "slug": "keystone-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +56,18 @@
     "timeWeek": 281,
     "timeMonth": 255,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "octavia-api",
     "url": "https://octavia.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/octavia.api.sjc3.rackspacecloud.com.ico",
     "slug": "octavia-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +76,18 @@
     "timeWeek": 258,
     "timeMonth": 245,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "glance-api",
     "url": "https://glance.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/glance.api.sjc3.rackspacecloud.com.ico",
     "slug": "glance-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +96,18 @@
     "timeWeek": 250,
     "timeMonth": 234,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "heat-api",
     "url": "https://heat.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/heat.api.sjc3.rackspacecloud.com.ico",
     "slug": "heat-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,16 +116,18 @@
     "timeWeek": 229,
     "timeMonth": 230,
     "timeYear": 228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "cinder-api",
     "url": "https://cinder.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/cinder.api.sjc3.rackspacecloud.com.ico",
     "slug": "cinder-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,16 +136,18 @@
     "timeWeek": 243,
     "timeMonth": 219,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "cloudformation-api",
     "url": "https://cloudformation.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloudformation.api.sjc3.rackspacecloud.com.ico",
     "slug": "cloudformation-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,16 +156,18 @@
     "timeWeek": 228,
     "timeMonth": 206,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "placement-api",
     "url": "https://placement.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/placement.api.sjc3.rackspacecloud.com.ico",
     "slug": "placement-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,16 +176,18 @@
     "timeWeek": 200,
     "timeMonth": 202,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "barbican-api",
     "url": "https://barbican.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/barbican.api.sjc3.rackspacecloud.com.ico",
     "slug": "barbican-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,16 +196,18 @@
     "timeWeek": 217,
     "timeMonth": 194,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "magnum-api",
     "url": "https://magnum.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/magnum.api.sjc3.rackspacecloud.com.ico",
     "slug": "magnum-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,6 +216,8 @@
     "timeWeek": 195,
     "timeMonth": 193,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   }
 ]
