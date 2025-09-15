@@ -1,7 +1,7 @@
 url: https://glance.api.sjc3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 287
-lastUpdated: 2025-09-15T10:12:01.408Z
+status: up
+code: 300
+responseTime: 131
+lastUpdated: 2025-09-15T10:37:35.539Z
 startTime: 2024-09-30T12:24:43.630Z
 generator: Upptime <https://github.com/upptime/upptime>
