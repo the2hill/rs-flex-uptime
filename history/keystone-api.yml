@@ -1,7 +1,7 @@
 url: https://keystone.api.sjc3.rackspacecloud.com/v3
-status: down
-code: 404
-responseTime: 107
-lastUpdated: 2025-11-26T07:55:05.284Z
+status: up
+code: 200
+responseTime: 98
+lastUpdated: 2025-11-26T08:34:40.268Z
 startTime: 2024-09-30T12:24:42.479Z
 generator: Upptime <https://github.com/upptime/upptime>
