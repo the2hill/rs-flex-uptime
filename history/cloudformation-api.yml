@@ -1,7 +1,7 @@
 url: https://cloudformation.api.sjc3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 184
-lastUpdated: 2026-01-02T23:22:40.321Z
+status: up
+code: 300
+responseTime: 112
+lastUpdated: 2026-01-02T23:26:25.857Z
 startTime: 2024-09-30T12:24:45.540Z
 generator: Upptime <https://github.com/upptime/upptime>
