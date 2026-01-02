@@ -1,7 +1,7 @@
 url: https://placement.api.sjc3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 1244
-lastUpdated: 2026-01-02T05:31:24.163Z
+status: up
+code: 200
+responseTime: 308
+lastUpdated: 2026-01-02T05:51:53.453Z
 startTime: 2024-09-30T12:24:45.995Z
 generator: Upptime <https://github.com/upptime/upptime>
