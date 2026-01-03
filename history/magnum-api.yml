@@ -1,7 +1,7 @@
 url: https://magnum.api.sjc3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 409
-lastUpdated: 2026-01-02T23:55:56.191Z
+status: up
+code: 200
+responseTime: 314
+lastUpdated: 2026-01-03T02:10:03.265Z
 startTime: 2024-09-30T12:24:46.998Z
 generator: Upptime <https://github.com/upptime/upptime>
