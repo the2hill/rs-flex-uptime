@@ -1,7 +1,7 @@
 url: https://barbican.api.sjc3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 371
-lastUpdated: 2026-01-04T08:38:21.014Z
+status: up
+code: 300
+responseTime: 306
+lastUpdated: 2026-01-04T09:27:28.352Z
 startTime: 2024-09-30T12:24:46.483Z
 generator: Upptime <https://github.com/upptime/upptime>
